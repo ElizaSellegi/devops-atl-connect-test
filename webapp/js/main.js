@@ -1,6 +1,6 @@
 void function() {
 
-    var list = document.createElement("LI")
+    var list = document.createElement("li")
     var ele = Document.getElementById("root")
 
     list.innerHTML = "And hello again..."
