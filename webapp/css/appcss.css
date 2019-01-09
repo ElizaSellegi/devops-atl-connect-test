@@ -1,4 +1,9 @@
 .main_div {
-    font-family: Verdana, Arial, Helvetica, sans-serif;
-    font-style: oblique;
+  color       : green;
+  font-family : Verdana,
+                Arial,
+                Helvetica,
+                sans-serif;
+  font-size   : 16px;
+  font-style  : oblique;
 }
