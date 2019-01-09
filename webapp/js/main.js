@@ -1,12 +1,12 @@
-void function() {
+(function aLittleIIFEFunction () {
 
-    var list = document.createElement("li")
-    var ele = Document.getElementById("root")
+    var list = document.createElement("li");
+    var ele = Document.getElementById("root");
 
-    list.innerHTML = "And hello again..."
+    list.innerHTML = "And hello again...";
 
-    ele.appendChild(list)
+    ele.appendChild(list);
 
-    alert("Hello from IIFE!")
+    alert("Hello from IIFE!");
 
-}();
+}());
