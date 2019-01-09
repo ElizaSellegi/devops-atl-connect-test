@@ -1,6 +1,5 @@
 .main_div {
-  text-transform : capitalize;
-  font           : arial,
-                   sans-serif;
+    font: 
+  font-family: sans-serif;
   font-style     : oblique;
 }
